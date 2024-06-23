@@ -13,7 +13,6 @@ st.title("Stumpbox")
 #setup
 topicList = "start"
 
-st.title("Policy Prompt")
 st.write("Start by configuring the context with the options below then generate a list of topics or the full posts.")
 
 col1, col2, col3 = st.columns(3)
