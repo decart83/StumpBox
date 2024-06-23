@@ -6,8 +6,6 @@ import openai
 # Set your OpenAI API key
 openai.api_key = st.secrets["API_KEY"]
 
-client = OpenAI()
-
 st.title("Stumpbox")
 
 #setup
